@@ -18,3 +18,6 @@ Using expenditure pattern to predict the completion number of degree, certificat
 Delta Cost Dataset from Integrated Postsecondary Education Data System Delta Cost Project Database.
 Including the data from the academy year 1987-1988 to 2012-2013. 
 http://www.deltacostproject.org/delta-cost-project-database
+
+##Update
+11/1 Proofreading main report
