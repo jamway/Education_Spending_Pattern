@@ -1,4 +1,5 @@
 # Udacity Machine Learning Nanodegree Capstone Project
+Using expenditure pattern to make better prediction of higher education institute performance
 
 ## Education Spending Pattern
 Udacity capstone project focusing on Education spending pattern and degree completion rate of higher education institutes.
