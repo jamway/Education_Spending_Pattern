@@ -1,5 +1,4 @@
-# Udacity Machine Learning Nanodegree Project 4
-Smartcab Route Planner
+# Udacity Machine Learning Nanodegree Capstone Project
 
 ## Education Spending Pattern
 Udacity capstone project focusing on Education spending pattern and degree completion rate of higher education institutes.
